@@ -35,7 +35,7 @@ export default {
       my_value: 'hello! the message from val',
       spa_technologies: ['vue', 'react', 'argularjs'],
       name: 'jack',
-      color: 'green',
+      color: 'green'
     }
   },
   methods: {
